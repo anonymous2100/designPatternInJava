@@ -3,6 +3,12 @@ package com.ctgu.combination;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @ClassName: PayDemo
+ * @Description: 组合模式，另一个实例
+ * @author lh2
+ * @date 2020年6月12日 下午4:44:39
+ */
 public class PayDemo
 {
 
@@ -87,9 +93,9 @@ public class PayDemo
 		PayDemo demo = new PayDemo();
 
 		MarketBranch rootBranch = demo.new MarketBranch("总店");
-		MarketBranch qhdBranch = demo.new MarketBranch("秦皇岛分店");
-		MarketJoin hgqJoin = demo.new MarketJoin("秦皇岛分店一海港区加盟店");
-		MarketJoin btlJoin = demo.new MarketJoin("秦皇岛分店二白塔岭加盟店");
+		MarketBranch qhdBranch = demo.new MarketBranch("龙华区分店");
+		MarketJoin hgqJoin = demo.new MarketJoin("龙华区分店a加盟店");
+		MarketJoin btlJoin = demo.new MarketJoin("龙华区分店b加盟店");
 
 		qhdBranch.add(hgqJoin);
 		qhdBranch.add(btlJoin);

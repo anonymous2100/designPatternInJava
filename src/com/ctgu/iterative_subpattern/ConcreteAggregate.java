@@ -1,5 +1,11 @@
 package com.ctgu.iterative_subpattern;
 
+/**
+ * @ClassName: ConcreteAggregate
+ * @Description:
+ * @author lh2
+ * @date 2020年6月12日 下午5:05:40
+ */
 public class ConcreteAggregate extends Aggregate
 {
 	private Object[] objArray = null;

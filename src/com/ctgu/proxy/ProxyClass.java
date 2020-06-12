@@ -1,5 +1,11 @@
 package com.ctgu.proxy;
 
+/**
+ * @ClassName: ProxyClass
+ * @Description:
+ * @author lh2
+ * @date 2020年6月12日 下午5:12:15
+ */
 public class ProxyClass implements BuyCar
 {
 	private People people;

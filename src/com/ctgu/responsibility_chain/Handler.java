@@ -1,5 +1,11 @@
 package com.ctgu.responsibility_chain;
 
+/**
+ * @ClassName: Handler
+ * @Description:
+ * @author lh2
+ * @date 2020年6月12日 下午5:15:31
+ */
 public abstract class Handler
 {
 	/**

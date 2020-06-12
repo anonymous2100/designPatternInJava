@@ -1,6 +1,11 @@
 package com.ctgu.command;
 
-// 执行命令的接口
+/**
+ * @ClassName: Command
+ * @Description:执行命令的接口
+ * @author lh2
+ * @date 2020年6月12日 下午4:54:13
+ */
 public interface Command
 {
 	void execute();

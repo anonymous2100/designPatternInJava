@@ -1,5 +1,11 @@
 package com.ctgu.decorator;
 
+/**
+ * @ClassName: ConcreteDecoratorC
+ * @Description:
+ * @author lh2
+ * @date 2020年6月12日 下午4:57:57
+ */
 public class ConcreteDecoratorC extends Decorator
 {
 	@Override

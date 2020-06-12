@@ -1,5 +1,11 @@
 package com.ctgu.proxy;
 
+/**
+ * @ClassName: People
+ * @Description:
+ * @author lh2
+ * @date 2020年6月12日 下午5:12:11
+ */
 public class People implements BuyCar
 {
 	private int cash;

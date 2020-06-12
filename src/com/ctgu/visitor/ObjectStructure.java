@@ -4,7 +4,12 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-// 对象结构角色
+/**
+ * @ClassName: ObjectStructure
+ * @Description: 对象结构角色
+ * @author lh2
+ * @date 2020年6月12日 下午5:29:16
+ */
 public class ObjectStructure
 {
 	private List<Element> list = new ArrayList<Element>();

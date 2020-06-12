@@ -1,6 +1,11 @@
 package com.ctgu.state;
 
-// 具体状态类：阻塞状态
+/**
+ * @ClassName: Blocked
+ * @Description: 具体状态类：阻塞状态
+ * @author lh2
+ * @date 2020年6月12日 下午5:16:59
+ */
 public class Blocked extends ThreadState
 {
 	public Blocked()

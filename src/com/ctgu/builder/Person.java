@@ -1,5 +1,11 @@
 package com.ctgu.builder;
 
+/**
+ * @ClassName: Person
+ * @Description:
+ * @author lh2
+ * @date 2020年6月12日 下午4:40:53
+ */
 public class Person
 {
 	private String head;

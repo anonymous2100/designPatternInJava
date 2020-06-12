@@ -1,5 +1,11 @@
 package com.ctgu.iterative_subpattern;
 
+/**
+ * @ClassName: ConcreteIterator
+ * @Description:
+ * @author lh2
+ * @date 2020年6月12日 下午5:05:45
+ */
 public class ConcreteIterator implements Iterator
 {
 	// 持有被迭代的具体的聚合对象

@@ -1,6 +1,11 @@
 package com.ctgu.visitor;
 
-// 具体元素A类
+/**
+ * @ClassName: ConcreteElementA
+ * @Description:具体元素A类
+ * @author lh2
+ * @date 2020年6月12日 下午5:28:32
+ */
 public class ConcreteElementA implements Element
 {
 	public void accept(Visitor visitor)

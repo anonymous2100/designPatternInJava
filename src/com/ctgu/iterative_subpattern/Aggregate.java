@@ -1,5 +1,11 @@
 package com.ctgu.iterative_subpattern;
 
+/**
+ * @ClassName: Aggregate
+ * @Description:
+ * @author lh2
+ * @date 2020年6月12日 下午5:05:27
+ */
 public abstract class Aggregate
 {
 	/**

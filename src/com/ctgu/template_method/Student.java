@@ -1,5 +1,11 @@
 package com.ctgu.template_method;
 
+/**
+ * @ClassName: Student
+ * @Description:
+ * @author lh2
+ * @date 2020年6月12日 下午5:28:16
+ */
 public class Student extends AbstractPerson
 {
 	@Override

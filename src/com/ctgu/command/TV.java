@@ -1,5 +1,11 @@
 package com.ctgu.command;
 
+/**
+ * @ClassName: TV
+ * @Description:
+ * @author lh2
+ * @date 2020年6月12日 下午4:53:41
+ */
 public class TV
 {
 	public int currentChannel = 0;

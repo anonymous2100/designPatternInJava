@@ -1,5 +1,11 @@
 package com.ctgu.iterative_subpattern;
 
+/**
+ * @ClassName: Iterator
+ * @Description:
+ * @author lh2
+ * @date 2020年6月12日 下午5:05:52
+ */
 public interface Iterator
 {
 	/**

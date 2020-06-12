@@ -1,6 +1,11 @@
 package com.ctgu.mediator;
 
-// 抽象同事类
+/**
+ * @ClassName: Colleague
+ * @Description:抽象同事类
+ * @author lh2
+ * @date 2020年6月12日 下午5:06:33
+ */
 public abstract class Colleague
 {
 	protected Mediator mediator;

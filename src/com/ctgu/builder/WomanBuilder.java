@@ -1,5 +1,11 @@
 package com.ctgu.builder;
 
+/**
+ * @ClassName: WomanBuilder
+ * @Description:
+ * @author lh2
+ * @date 2020年6月12日 下午4:41:18
+ */
 public class WomanBuilder implements PersonBuilder
 {
 	Person person;

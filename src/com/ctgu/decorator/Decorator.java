@@ -1,5 +1,11 @@
 package com.ctgu.decorator;
 
+/**
+ * @ClassName: Decorator
+ * @Description:
+ * @author lh2
+ * @date 2020年6月12日 下午4:58:03
+ */
 public class Decorator extends Component
 {
 	protected Component component;

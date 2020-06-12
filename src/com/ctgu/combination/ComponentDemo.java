@@ -3,6 +3,14 @@ package com.ctgu.combination;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @ClassName: ComponentDemo
+ * @Description: 组合（Composite）模式的定义：有时又叫作部分-整体模式，<br>
+ *               它是一种将对象组合成树状的层次结构的模式，用来表示“部分-整体”的关系，<br>
+ *               使用户对单个对象和组合对象具有一致的访问性。<br>
+ * @author lh2
+ * @date 2020年6月12日 下午4:44:13
+ */
 public class ComponentDemo
 {
 	public abstract class Component
@@ -43,7 +51,6 @@ public class ComponentDemo
 			// TODO Auto-generated method stub
 			System.out.println(name + "执行了");
 		}
-
 	}
 
 	// 组合类

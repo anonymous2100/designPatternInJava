@@ -1,5 +1,11 @@
 package com.ctgu.simple_factory_method;
 
+/**
+ * @ClassName: OperationFactory
+ * @Description:
+ * @author lh2
+ * @date 2020年6月12日 下午5:16:40
+ */
 public class OperationFactory
 {
 	public static Operation createOperation(char operator)

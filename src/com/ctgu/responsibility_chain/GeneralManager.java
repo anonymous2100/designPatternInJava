@@ -1,5 +1,11 @@
 package com.ctgu.responsibility_chain;
 
+/**
+ * @ClassName: GeneralManager
+ * @Description:
+ * @author lh2
+ * @date 2020年6月12日 下午5:15:26
+ */
 public class GeneralManager extends Handler
 {
 	@Override

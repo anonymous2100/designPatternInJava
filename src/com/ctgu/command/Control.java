@@ -1,5 +1,11 @@
 package com.ctgu.command;
 
+/**
+ * @ClassName: Control
+ * @Description:
+ * @author lh2
+ * @date 2020年6月12日 下午4:53:14
+ */
 public class Control
 {
 	private Command onCommand, offCommand, changeChannel;

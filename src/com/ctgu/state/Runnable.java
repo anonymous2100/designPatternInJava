@@ -1,6 +1,11 @@
 package com.ctgu.state;
 
-// 具体状态类：就绪状态
+/**
+ * @ClassName: Runnable
+ * @Description: 具体状态类：就绪状态
+ * @author lh2
+ * @date 2020年6月12日 下午5:17:26
+ */
 public class Runnable extends ThreadState
 {
 	public Runnable()

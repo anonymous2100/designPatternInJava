@@ -1,6 +1,11 @@
 package com.ctgu.state;
 
-// 具体状态类：新建状态
+/**
+ * @ClassName: New
+ * @Description: 具体状态类：新建状态
+ * @author lh2
+ * @date 2020年6月12日 下午5:17:17
+ */
 public class New extends ThreadState
 {
 	public New()

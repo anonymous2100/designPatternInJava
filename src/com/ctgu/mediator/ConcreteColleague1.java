@@ -1,6 +1,11 @@
 package com.ctgu.mediator;
 
-// 具体同事类
+/**
+ * @ClassName: ConcreteColleague1
+ * @Description:具体同事类
+ * @author lh2
+ * @date 2020年6月12日 下午5:06:44
+ */
 public class ConcreteColleague1 extends Colleague
 {
 	public void receive()

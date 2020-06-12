@@ -1,6 +1,11 @@
 package com.ctgu.state;
 
-// 具体状态类：运行状态
+/**
+ * @ClassName: Running
+ * @Description: 具体状态类：运行状态
+ * @author lh2
+ * @date 2020年6月12日 下午5:17:37
+ */
 public class Running extends ThreadState
 {
 	public Running()

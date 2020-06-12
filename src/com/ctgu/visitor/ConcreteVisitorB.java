@@ -1,6 +1,11 @@
 package com.ctgu.visitor;
 
-// 具体访问者B类
+/**
+ * @ClassName: ConcreteVisitorB
+ * @Description: 具体访问者B类
+ * @author lh2
+ * @date 2020年6月12日 下午5:28:57
+ */
 public class ConcreteVisitorB implements Visitor
 {
 	public void visit(ConcreteElementA element)

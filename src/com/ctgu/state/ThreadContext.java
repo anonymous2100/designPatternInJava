@@ -1,6 +1,11 @@
 package com.ctgu.state;
 
-// 环境类
+/**
+ * @ClassName: ThreadContext
+ * @Description: 环境类
+ * @author lh2
+ * @date 2020年6月12日 下午5:17:50
+ */
 public class ThreadContext
 {
 	private ThreadState state;

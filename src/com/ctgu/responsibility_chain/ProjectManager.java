@@ -1,5 +1,11 @@
 package com.ctgu.responsibility_chain;
 
+/**
+ * @ClassName: ProjectManager
+ * @Description:
+ * @author lh2
+ * @date 2020年6月12日 下午5:15:37
+ */
 public class ProjectManager extends Handler
 {
 	@Override
